@@ -1,3 +1,9 @@
 User-agent: *
-Allow: /
+Disallow: /Marilleva-Copai1-20/
+
+Allow: /Marilleva-Copai1-20/index.html
+Allow: /Marilleva-Copai1-20/index-en.html
+Allow: /Marilleva-Copai1-20/index-it.html
+Allow: /Marilleva-Copai1-20/index-be-nl.html
+Allow: /Marilleva-Copai1-20/Accessmap.html
 Sitemap: https://leoleros.github.io/Marilleva-Copai1-20/sitemap.xml
