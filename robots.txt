@@ -1,1 +1,3 @@
-Sitemap: http://users.skynet.be/fb716062/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: https://leoleros.github.io/Marilleva-Copai1-20/sitemap.xml
