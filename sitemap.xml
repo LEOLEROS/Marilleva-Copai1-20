@@ -6,35 +6,401 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/index-it.html</loc>
-  <lastmod>2025-07-07T18:35:48+00:00</lastmod>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/activity</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/index.html</loc>
-  <lastmod>2020-07-07T18:35:48+00:00</lastmod>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/issues</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/index-be-nl.html</loc>
-  <lastmod>2020-07-07T18:35:47+00:00</lastmod>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/pulls</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/index-en.html</loc>
-  <lastmod>2020-07-07T18:35:48+00:00</lastmod>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://leoleros.github.io/Marilleva-Copai1-20/Accessmap.html</loc>
-  <lastmod>2020-07-07T18:35:48+00:00</lastmod>
-  <priority>1.0</priority>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/security</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/Accessmap.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/googlef3e15e93c60ba090.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/index-be-nl.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/index-en.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/index-it.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/index.html</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/robots.txt</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/blob/main/style.css</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/releases</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/search?q=repo%3ALEOLEROS%2FMarilleva-Copai1-20++language%3AHTML</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/search?q=repo%3ALEOLEROS%2FMarilleva-Copai1-20++language%3ACSS</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/milestones</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16123315338</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122919736</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122464100</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122311376</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122271101</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122256039</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16115490846</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/bug</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/documentation</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/duplicate</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/enhancement</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/good%20first%20issue</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/help%20wanted</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/invalid</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/question</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/labels/wontfix</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/milestones?state=closed</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16123315338/job/45494248909</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16123315338/job/45494271009</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16123315338/job/45494271025</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16123315338/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/7486ef3ab4ea2de879ced7256acae6c3d53f2a84</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122919736/job/45492959785</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122919736/job/45492987478</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122919736/job/45492987475</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122919736/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/668c9288258839666166cf94aefe9423755b404e</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122464100/job/45491434381</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122464100/job/45491460463</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122464100/job/45491460465</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122464100/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/8112b4a3e4591b1aba0f209d79d8ec3f63387d33</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122311376/job/45490924708</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122311376/job/45490951986</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122311376/job/45490951998</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122311376/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/110a916b915670474ef1e28658bc36657310f742</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122271101/job/45490786697</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122271101/job/45490819104</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122271101/job/45490819083</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122271101/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/76e19fa253b7bb4e9045daf36a847ba95d857824</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122256039/job/45490735726</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122256039/job/45490762422</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122256039/job/45490762419</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16122256039/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/d812eeab8d6f39458f2b5e82d82f918c8d4df933</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16115490846/job/45468312782</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16115490846/job/45468334157</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16115490846/job/45468334170</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/actions/runs/16115490846/usage</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/leoleros/Marilleva-Copai1-20/commit/32ead70df44978ad85e2cd880369630505659637</loc>
+  <lastmod>2025-07-08T11:24:47+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
